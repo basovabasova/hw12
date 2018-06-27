@@ -21,7 +21,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 <!DOCTYPE html>
 <html lang="ru">
 <head>
-  <title></title>
+  <title>Реляционные базы данных и SQL</title>
   <meta charset="UTF-8">
 </head>
 <body>
